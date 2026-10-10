@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I232
 ### Team Details
-#### **Team name** <<Tech Titans>> <br/>
+#### **Team name** <<Insert your team name>> <Tech Titans>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hosteller/Day-Scholar      |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:--------------------------:|
